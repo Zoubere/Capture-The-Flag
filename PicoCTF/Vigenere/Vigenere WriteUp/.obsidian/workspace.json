@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "6fb7a8b0353be9f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "155816414cb86445",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e286bc7911aa99ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vigenere Crypto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vigenere Crypto"
+            }
+          }
+        ]
+      },
+      {
+        "id": "70c6d09cd7e52b65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faf2d7e00815014a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5c63bf0167b5264",
+    "type": "split",
+    "children": [
+      {
+        "id": "1af1f6bfa715382e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46b0551caab2d131",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f3e461da938be715",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d2523d68dc7179b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19fd0452775181dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f579cdd0384fde01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2434d6685859b190",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vigenere Crypto.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vigenere Crypto"
+            }
+          },
+          {
+            "id": "02044b6bf8aeac0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vigenere Crypto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vigenere Crypto"
+            }
+          },
+          {
+            "id": "de93c04bc56ebeae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2fc9bf69e5407e5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vigenere Crypto.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vigenere Crypto"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e286bc7911aa99ae",
+  "lastOpenFiles": [
+    "VigenereDcode.png",
+    "Pasted image 20241024134500.png",
+    "create a link.md",
+    "Vigenere Crypto.md"
+  ]
+}
